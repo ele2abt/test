@@ -27,4 +27,4 @@ pandas~=1.5.3
 lxml~=4.9.2
 pandas~=1.5.3
 py-mock==1.2.1
-CairoSVG<2.7.0
+CairoSVG<2.8.0
